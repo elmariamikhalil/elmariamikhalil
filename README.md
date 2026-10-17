@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:elmariamikhalil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/elmariamikhalil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=elmariamikhalil&style=for-the-badge&color=3B82F6&label=Profile+Views" alt="Profile views"/>
+  <img src="https://hits.sh/github.com/elmariamikhalil.svg?style=for-the-badge&label=Profile%20Views&color=3B82F6&labelColor=555555" alt="Profile views"/>
 </p>
 
 <hr>
@@ -87,16 +87,12 @@ I'm a **Full Stack Web Developer** who loves turning complex problems into intui
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-<!-- Swap these for your own repos -->
 <p align="center">
-<a href="https://github.com/elmariamikhalil/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmariamikhalil&repo=PROJECT_ONE&theme=tokyonight&hide_border=true" alt="Project one"/>
-</a>
-<a href="https://github.com/elmariamikhalil/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmariamikhalil&repo=PROJECT_TWO&theme=tokyonight&hide_border=true" alt="Project two"/>
-</a>
+  <a href="https://github.com/elmariamikhalil/React-admin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmariamikhalil&repo=React-admin&theme=tokyonight&hide_border=true" alt="React-admin"/>
+  </a>
 </p>
 
 ---
