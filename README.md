@@ -87,13 +87,50 @@ I'm a **Full Stack Web Developer** who loves turning complex problems into intui
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/elmariamikhalil/Social-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmariamikhalil&repo=React-admin&theme=tokyonight&hide_border=true" alt="React-admin"/>
-  </a>
-</p>
+### 🗂️ [Marabes](https://github.com/elmariamikhalil/marabes) — Client & Engagement Management Platform
+
+A full-stack platform for an accounting and advisory firm. It tracks every client across the firm's service lines (administration, back office, audit, year-end work and advisory) and shows how far along each one is.
+
+- 📊 Per-client progress dashboards with status breakdowns and charts for each service line
+- 👥 User, team and client management, with team-to-client assignments
+- 🔐 JWT authentication and bcrypt-hashed passwords
+- 📎 File uploads, printable reports and PDF export
+- ⚡ Real-time updates over Socket.io
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![CoreUI](https://img.shields.io/badge/CoreUI-321FDB?style=flat-square&logo=coreui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+[![View repo](https://img.shields.io/badge/View%20repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmariamikhalil/marabes)
+
+<br>
+
+### 🛠️ [IT-Team](https://github.com/elmariamikhalil/IT-Team) — IT Team Workspace
+
+A workspace for IT teams to run their day-to-day work in one place: projects, tasks, support tickets and clients.
+
+- 🎫 Ticketing and task tracking alongside project and client records
+- 🔐 Register and login with JWT, plus protected routes on the frontend
+- 🧱 REST API built on a controller pattern, with Sequelize migrations and seed data
+- 📋 Dashboard with the signed-in user's profile and work overview
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white) ![CoreUI](https://img.shields.io/badge/CoreUI-321FDB?style=flat-square&logo=coreui&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+[![View repo](https://img.shields.io/badge/View%20repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmariamikhalil/IT-Team)
+
+<br>
+
+### 🧠 [Face Recognition](https://github.com/elmariamikhalil/Khalil) — In-Browser Face Recognition
+
+Upload a photo and the app finds every face in it, compares each one against a set of labeled reference faces, and draws a labeled box around each match. It runs entirely in the browser, with no server.
+
+- 🔍 Face detection with SSD MobileNet, plus 68-point facial landmarks
+- 🧬 Face descriptors matched against labeled reference images
+- 🖼️ Results drawn as labeled boxes on a canvas over the uploaded image
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![face-api.js](https://img.shields.io/badge/face--api.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+[![View repo](https://img.shields.io/badge/View%20repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmariamikhalil/Khalil)
 
 ---
 
