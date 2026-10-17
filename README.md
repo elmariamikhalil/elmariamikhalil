@@ -90,7 +90,7 @@ I'm a **Full Stack Web Developer** who loves turning complex problems into intui
 ## 📌 Featured Project
 
 <p align="center">
-  <a href="https://github.com/elmariamikhalil/React-admin">
+  <a href="https://github.com/elmariamikhalil/Social-manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=elmariamikhalil&repo=React-admin&theme=tokyonight&hide_border=true" alt="React-admin"/>
   </a>
 </p>
