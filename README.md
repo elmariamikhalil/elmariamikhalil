@@ -150,22 +150,6 @@ A music streaming app with three roles: listeners, artists and admins.
 
 <br>
 
-### 🗂️ [Marabes](https://github.com/elmariamikhalil/marabes) — Client & Engagement Management Platform
-
-A full-stack platform for an accounting and advisory firm. It tracks every client across the firm's service lines (administration, back office, audit, year-end work and advisory) and shows how far along each one is.
-
-- 📊 Per-client progress dashboards with status breakdowns and charts for each service line
-- 👥 User, team and client management, with team-to-client assignments
-- 🔐 JWT authentication and bcrypt-hashed passwords
-- 📎 File uploads, printable reports and PDF export
-- ⚡ Real-time updates over Socket.io
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![CoreUI](https://img.shields.io/badge/CoreUI-321FDB?style=flat-square&logo=coreui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-[![View repo](https://img.shields.io/badge/View%20repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmariamikhalil/marabes)
-
-<br>
-
 ### 🧩 More projects
 
 | Project | What it is |
