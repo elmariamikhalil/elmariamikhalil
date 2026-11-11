@@ -144,27 +144,10 @@ A music streaming app with three roles: listeners, artists and admins.
 
 <br>
 
-### 🗂️ [Marabes](https://github.com/elmariamikhalil/marabes) — Client & Engagement Management Platform
-
-A full-stack platform for an accounting and advisory firm. It tracks every client across the firm's service lines (administration, back office, audit, year-end work and advisory) and shows how far along each one is.
-
-- 📊 Per-client progress dashboards with status breakdowns and charts for each service line
-- 👥 User, team and client management, with team-to-client assignments
-- 🔐 JWT authentication and bcrypt-hashed passwords
-- 📎 File uploads, printable reports and PDF export
-- ⚡ Real-time updates over Socket.io
-
-![React](https://img.shields.io/badge/React-151B48?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-151B48?style=for-the-badge&logo=redux&logoColor=764ABC) ![CoreUI](https://img.shields.io/badge/CoreUI-151B48?style=for-the-badge&logo=coreui&logoColor=F2E9CF) ![MUI](https://img.shields.io/badge/MUI-151B48?style=for-the-badge&logo=mui&logoColor=007FFF) ![Chart.js](https://img.shields.io/badge/Chart.js-151B48?style=for-the-badge&logo=chartdotjs&logoColor=FF6384) ![Node.js](https://img.shields.io/badge/Node.js-151B48?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![Sequelize](https://img.shields.io/badge/Sequelize-151B48?style=for-the-badge&logo=sequelize&logoColor=52B0E7) ![MySQL](https://img.shields.io/badge/MySQL-151B48?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Socket.io](https://img.shields.io/badge/Socket.io-151B48?style=for-the-badge&logo=socketdotio&logoColor=F2E9CF)
-
-[![View repo](https://img.shields.io/badge/View%20repo-FF8A1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmariamikhalil/marabes)
-
-<br>
-
 ### 🧩 More projects
 
 | Project | What it is |
 |---|---|
-| 🔐 [Secure Password Manager](https://github.com/elmariamikhalil/secure-password-manager) | Zero-knowledge vault with client-side AES-GCM encryption, a Chrome autofill extension, and a PostgreSQL backend |
 | 🏦 [MT940 Converter](https://github.com/elmariamikhalil/mt940) | Converts MT940 bank statements (and Apple Numbers files) into clean CSV/Excel, with a stats dashboard |
 | 📚 [Academy](https://github.com/elmariamikhalil/Academy2) | Online academy with video and text lessons, enrollments, progress tracking, evaluations and reports, on a MySQL/Sequelize backend |
 
