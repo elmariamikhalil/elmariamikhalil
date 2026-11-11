@@ -1,18 +1,20 @@
-<h1 align="center">Hi there, I'm Khalil 👋</h1>
-
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+user-first+web+experiences;React+%7C+Next.js+%7C+Node.js+%7C+Django;Always+learning+something+new+%F0%9F%92%A1" alt="Typing SVG" /></a>
+  <img src="./assets/player.svg" width="100%" alt="Player 1: Khalil Elmariami"/>
 </p>
 
 <p align="center">
-  <a href="mailto:elmariamikhalil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/elmariamikhalil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
-  <img src="https://hits.sh/github.com/elmariamikhalil.svg?style=for-the-badge&label=Profile%20Views&color=3B82F6&labelColor=555555" alt="Profile views"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FFE14D&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+user-first+web+experiences;React+%7C+Next.js+%7C+Node.js+%7C+Django;Always+learning+something+new+%F0%9F%92%A1" alt="Typing SVG" /></a>
 </p>
 
-<hr>
+<p align="center">
+  <a href="mailto:elmariamikhalil@gmail.com"><img src="https://img.shields.io/badge/Email-151B48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/elmariamikhalil"><img src="https://img.shields.io/badge/LinkedIn-151B48?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
+  <img src="https://hits.sh/github.com/elmariamikhalil.svg?style=for-the-badge&label=Profile%20Views&color=FF8A1F&labelColor=151B48" alt="Profile views"/>
+</p>
 
-## 🧑‍💻 About Me
+
+<img src="./assets/title-about.svg" width="100%" alt="About me"/>
+
 
 I'm a **Full Stack Web Developer** who loves turning complex problems into intuitive, scalable, and fast web applications. From pixel-perfect frontends to robust backends and APIs, I enjoy every layer of the stack — and I care about the details that make products feel great to use.
 
@@ -21,50 +23,50 @@ I'm a **Full Stack Web Developer** who loves turning complex problems into intui
 - 🎨 Also into **UI/UX** and graphic design
 - ⚡ Fun fact: I love puzzles, algorithms, and traveling — it fuels my creativity
 
----
 
-## 🛠️ Tech Stack
+<img src="./assets/title-stack.svg" width="100%" alt="Tech stack"/>
+
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-151B48?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-151B48?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Next.js](https://img.shields.io/badge/Next.js-151B48?style=for-the-badge&logo=nextdotjs&logoColor=F2E9CF)
+![TypeScript](https://img.shields.io/badge/TypeScript-151B48?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-151B48?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-151B48?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-151B48?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-151B48?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-151B48?style=for-the-badge&logo=express&logoColor=F2E9CF)
+![Django](https://img.shields.io/badge/Django-151B48?style=for-the-badge&logo=django&logoColor=F2E9CF)
+![Flask](https://img.shields.io/badge/Flask-151B48?style=for-the-badge&logo=flask&logoColor=F2E9CF)
+![FastAPI](https://img.shields.io/badge/FastAPI-151B48?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-151B48?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-151B48?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-151B48?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 **DevOps & Cloud**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-151B48?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-151B48?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-151B48?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Git](https://img.shields.io/badge/Git-151B48?style=for-the-badge&logo=git&logoColor=F05032)
 
 **Testing**
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-151B48?style=for-the-badge&logo=jest&logoColor=F2E9CF)
+![Mocha](https://img.shields.io/badge/Mocha-151B48?style=for-the-badge&logo=mocha&logoColor=8D6748)
+![Cypress](https://img.shields.io/badge/Cypress-151B48?style=for-the-badge&logo=cypress&logoColor=F2E9CF)
 
----
 
-## 💼 What I Do
+<img src="./assets/title-what.svg" width="100%" alt="What I do"/>
+
 
 | | |
 |---|---|
@@ -74,29 +76,21 @@ I'm a **Full Stack Web Developer** who loves turning complex problems into intui
 | 🔌 **Integrations** | Third-party APIs and services that extend functionality |
 | 🧹 **Clean Code** | Readable, efficient, maintainable, and well-tested |
 
----
 
-## 📊 GitHub Stats
+<img src="./assets/title-stats.svg" width="100%" alt="Stats"/>
 
-<!-- These cards are generated by .github/workflows/profile-summary-cards.yml and refreshed every 6 hours -->
+
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%"/>
+  <img src="./assets/combo.svg" width="49%" alt="Contribution streak"/>
+  <img src="./assets/inventory.svg" width="49%" alt="Top languages"/>
 </p>
 <p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
-  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit"/>
-</p>
-<p align="center">
-  <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
-  <img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=elmariamikhalil&theme=tokyonight&hide_border=true&timezone=Africa/Casablanca" alt="GitHub streak"/>
+  <img src="./assets/level-map.svg" width="100%" alt="Contribution map for the last year"/>
 </p>
 
----
 
-## 📌 Featured Projects
+<img src="./assets/title-projects.svg" width="100%" alt="Featured projects"/>
+
 
 ### 🤖 [SocialAI Manager](https://github.com/elmariamikhalil/Social-manager) — AI-Powered Content & Marketing Manager
 
@@ -110,9 +104,9 @@ An all-in-one tool for creating, scheduling and publishing social media content,
 - 📊 Analytics dashboards and a posts library with platform previews
 - ⚡ Live updates over Socket.io
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![React](https://img.shields.io/badge/React-151B48?style=for-the-badge&logo=react&logoColor=61DAFB) ![Recharts](https://img.shields.io/badge/Recharts-151B48?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-151B48?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express-151B48?style=for-the-badge&logo=express&logoColor=F2E9CF) ![Gemini](https://img.shields.io/badge/Gemini-151B48?style=for-the-badge&logo=googlegemini&logoColor=8E75B2) ![Cloudinary](https://img.shields.io/badge/Cloudinary-151B48?style=for-the-badge&logo=cloudinary&logoColor=3448C5) ![SQLite](https://img.shields.io/badge/SQLite-151B48?style=for-the-badge&logo=sqlite&logoColor=F2E9CF) ![Socket.io](https://img.shields.io/badge/Socket.io-151B48?style=for-the-badge&logo=socketdotio&logoColor=F2E9CF)
 
-[![View repo](https://img.shields.io/badge/View%20repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmariamikhalil/Social-manager)
+[![View repo](https://img.shields.io/badge/View%20repo-FF8A1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmariamikhalil/Social-manager)
 
 <br>
 
@@ -127,9 +121,9 @@ A full learning platform built in TypeScript end to end, with separate experienc
 - 🛠️ Admin panel for users, courses and paths
 - ☁️ Avatar and image uploads to AWS S3, deployed on EC2
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-151B48?style=for-the-badge&logo=typescript&logoColor=3178C6) ![React](https://img.shields.io/badge/React-151B48?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-151B48?style=for-the-badge&logo=vite&logoColor=646CFF) ![Node.js](https://img.shields.io/badge/Node.js-151B48?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express-151B48?style=for-the-badge&logo=express&logoColor=F2E9CF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-151B48?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![AWS S3](https://img.shields.io/badge/AWS%20S3-151B48?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-151B48?style=for-the-badge&logo=jsonwebtokens&logoColor=F2E9CF)
 
-[![View repo](https://img.shields.io/badge/View%20repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmariamikhalil/MyDev)
+[![View repo](https://img.shields.io/badge/View%20repo-FF8A1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmariamikhalil/MyDev)
 
 <br>
 
@@ -144,9 +138,25 @@ A music streaming app with three roles: listeners, artists and admins.
 - ☁️ Audio and cover storage on Azure Blob Storage and Cloudinary
 - 🔐 JWT auth, bcrypt hashing and API rate limiting
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Azure Blob](https://img.shields.io/badge/Azure%20Blob-0078D4?style=flat-square) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![React](https://img.shields.io/badge/React-151B48?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-151B48?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) ![Vite](https://img.shields.io/badge/Vite-151B48?style=for-the-badge&logo=vite&logoColor=646CFF) ![Node.js](https://img.shields.io/badge/Node.js-151B48?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express-151B48?style=for-the-badge&logo=express&logoColor=F2E9CF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-151B48?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![Azure Blob](https://img.shields.io/badge/Azure%20Blob-151B48?style=for-the-badge) ![Cloudinary](https://img.shields.io/badge/Cloudinary-151B48?style=for-the-badge&logo=cloudinary&logoColor=3448C5)
 
-[![View repo](https://img.shields.io/badge/View%20repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmariamikhalil/spotify-clone)
+[![View repo](https://img.shields.io/badge/View%20repo-FF8A1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmariamikhalil/spotify-clone)
+
+<br>
+
+### 🗂️ [Marabes](https://github.com/elmariamikhalil/marabes) — Client & Engagement Management Platform
+
+A full-stack platform for an accounting and advisory firm. It tracks every client across the firm's service lines (administration, back office, audit, year-end work and advisory) and shows how far along each one is.
+
+- 📊 Per-client progress dashboards with status breakdowns and charts for each service line
+- 👥 User, team and client management, with team-to-client assignments
+- 🔐 JWT authentication and bcrypt-hashed passwords
+- 📎 File uploads, printable reports and PDF export
+- ⚡ Real-time updates over Socket.io
+
+![React](https://img.shields.io/badge/React-151B48?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-151B48?style=for-the-badge&logo=redux&logoColor=764ABC) ![CoreUI](https://img.shields.io/badge/CoreUI-151B48?style=for-the-badge&logo=coreui&logoColor=F2E9CF) ![MUI](https://img.shields.io/badge/MUI-151B48?style=for-the-badge&logo=mui&logoColor=007FFF) ![Chart.js](https://img.shields.io/badge/Chart.js-151B48?style=for-the-badge&logo=chartdotjs&logoColor=FF6384) ![Node.js](https://img.shields.io/badge/Node.js-151B48?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![Sequelize](https://img.shields.io/badge/Sequelize-151B48?style=for-the-badge&logo=sequelize&logoColor=52B0E7) ![MySQL](https://img.shields.io/badge/MySQL-151B48?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Socket.io](https://img.shields.io/badge/Socket.io-151B48?style=for-the-badge&logo=socketdotio&logoColor=F2E9CF)
+
+[![View repo](https://img.shields.io/badge/View%20repo-FF8A1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elmariamikhalil/marabes)
 
 <br>
 
@@ -158,10 +168,8 @@ A music streaming app with three roles: listeners, artists and admins.
 | 🏦 [MT940 Converter](https://github.com/elmariamikhalil/mt940) | Converts MT940 bank statements (and Apple Numbers files) into clean CSV/Excel, with a stats dashboard |
 | 📚 [Academy](https://github.com/elmariamikhalil/Academy2) | Online academy with video and text lessons, enrollments, progress tracking, evaluations and reports, on a MySQL/Sequelize backend |
 
----
 
-<h3 align="center">🤝 Let's build something amazing together!</h3>
 <p align="center">
-  Open to collaborations, freelance work, and interesting conversations.<br>
-  <a href="mailto:elmariamikhalil@gmail.com"><b>Get in touch →</b></a>
+  <a href="mailto:elmariamikhalil@gmail.com"><img src="./assets/send-ideas.svg" width="100%" alt="Send ideas: elmariamikhalil@gmail.com"/></a>
 </p>
+<p align="center">Open to collaborations, freelance work, and interesting conversations.</p>
